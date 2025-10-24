@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PRM392_Client</string>
+    <string name="enter_name">Enter name</string>
+    <string name="type_message">Type message</string>
+    <string name="send">Send</string>
+    <string name="chat_messages">Chat message</string>
+</resources>
