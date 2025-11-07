@@ -52,4 +52,5 @@ dependencies {
     implementation("com.microsoft.signalr:signalr:8.0.21")
     // https://mvnrepository.com/artifact/org.jetbrains.kotlinx/kotlinx-coroutines-android
     implementation("org.jetbrains.kotlinx:kotlinx-coroutines-android:1.10.2")
+    implementation("com.google.android.material:material:1.12.0")
 }
